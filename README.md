@@ -18,6 +18,12 @@ This project implements a RESTful API for managing a car parking lot system usin
 *   Node.js (v16 or later recommended)
 *   npm (usually comes with Node.js) or yarn
 
+## Postman Documentation and Deployment
+
+Postman - https://documenter.getpostman.com/view/39067872/2sB2j6AAfT
+
+Deployed link - https://parking-lot-api-ya9g.onrender.com
+
 ## Installation
 
 1.  Clone the repository:
