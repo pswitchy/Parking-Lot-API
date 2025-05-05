@@ -22,8 +22,8 @@ This project implements a RESTful API for managing a car parking lot system usin
 
 1.  Clone the repository:
     ```bash
-    git clone <your-repo-url>
-    cd parking-lot-api
+    git clone https://github.com/pswitchy/Parking-Lot-API
+    cd Parking-Lot-API
     ```
 2.  Install dependencies:
     ```bash
