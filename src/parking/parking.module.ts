@@ -4,6 +4,6 @@ import { ParkingService } from './parking.service';
 
 @Module({
   controllers: [ParkingController],
-  providers: [ParkingService]
+  providers: [ParkingService], // ParkingService is self-contained, no external dependencies needed here
 })
 export class ParkingModule {}
