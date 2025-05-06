@@ -56,6 +56,9 @@ Deployed link - https://parking-lot-api-ya9g.onrender.com
     ```bash
     npm run test
     ```
+
+    ![Screenshot 2025-05-06 140539](https://github.com/user-attachments/assets/9c51f188-dade-45a2-a083-77e471623487)
+
 *   **Test Coverage:**
     ```bash
     npm run test:cov
@@ -64,6 +67,8 @@ Deployed link - https://parking-lot-api-ya9g.onrender.com
     ```bash
     npm run test:e2e
     ```
+    ![Screenshot 2025-05-06 140609](https://github.com/user-attachments/assets/ecc00d77-b24a-4afd-8735-fb74d0e2a2d1)
+
 
 ## Running with Docker
 
