@@ -196,7 +196,6 @@ The base URL is `/parking-lots`.
         "registrationNumber": "KA-01-HH-9999",
         "color": "Black"
       }
-      // ... other parked cars
     ]
     ```
 *   **Error Responses:**
